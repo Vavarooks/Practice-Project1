@@ -1,5 +1,4 @@
 import React from 'react';
-import "../App";
 // import Form from "./Form";
 
 function About() {
@@ -31,6 +30,19 @@ function About() {
                     </div>
                 </div>
             </div>
+            <footer className="page-footer font-small cyan darken-3">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-md-12 py-5">
+                            <div className="mb-5 flex-center">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="footer-copyright text-center py-3">© 2020 Copyright:
+    <a href="#"> ArtsAndSuch</a>
+                </div>
+            </footer>
         </div>
     )
 }
