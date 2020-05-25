@@ -1,27 +1,51 @@
 import React from "react";
-import Form from "./Form";
-import About from "./About"
+// import Form from "./Form";
+// import About from "./About";
+// import { Link } from "react-router-dom";
 
-function Commissions() {
-    return (
-        <Form />
-    )
+
+{/* <Route path="./Form" component={Form} />
+
+class App extends React.Component {
+    render() {
+        return (
+          <div>
+            <Link to="./Form" className="btn btn-primary">hello</Link>
+         </div>
+       ); 
+    }
 }
 
-function Info() {
-    return (
-        <About />
-    )
+class Second extends React.Component {
+    render() {
+        return <label>second component</label>
+    }
 }
+
+React.render( <App /> , document.getElementById('app')) */}
+
+
+
+// function Commissions() {
+//     return (
+//         <Form />
+//     )
+// }
+
+// function Info() {
+//     return (
+//         <About />
+//     )
+// }
 
 function Home() {
     return (
         <div>
             <nav className="navbar navbar-light bg-light">
                 <form className="form-inline">
-                    <button onClick={Info} type="button" className="btn btn-outline-info" data-toggle="button" aria-pressed="false">About</button>
-                    <button onClick={Home} type="button" className="btn btn-outline-primary" data-toggle="button" aria-pressed="false">Home</button>
-                    <button onClick={Commissions} type="button" className="btn btn-outline-secondary" data-toggle="button" aria-pressed="false">Commissions</button>
+                    <a href="./About.js" role="button" className="btn btn-outline-info" data-toggle="button" aria-pressed="false">About</a>
+                    <button href="/" type="button" className="btn btn-outline-primary" data-toggle="button" aria-pressed="false">Home</button>
+                    <button href="./FormUse.html" type="button" className="btn btn-outline-secondary" data-toggle="button" aria-pressed="false">Commissions</button>
                 </form>
             </nav>
             <div className="jumbotron jumbotron-fluid">
@@ -30,21 +54,21 @@ function Home() {
                     <p className="lead">For all your commision needs!</p>
                     <div className="card-group">
                         <div className="card">
-                            <img src="..." className="card-img-top" alt="..." />
+                            <img src="https://picsum.photos/200/180" className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Line Art</h5>
                                 <p className="card-text">Just for your line art needs</p>
                             </div>
                         </div>
                         <div className="card">
-                            <img src="..." className="card-img-top" alt="..." />
+                            <img src="https://picsum.photos/200/180" className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Line and colored</h5>
                                 <p className="card-text">A colored line art piece.</p>
                             </div>
                         </div>
                         <div className="card">
-                            <img src="..." className="card-img-top" alt="..." />
+                            <img src="https://picsum.photos/200/180" className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Colored art with background</h5>
                                 <p className="card-text">A colored work with a colored background.</p>
