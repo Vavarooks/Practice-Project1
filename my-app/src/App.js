@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import Pagenav from "./pages/Works.Js"
 // import Form from './pages/Form';
 // import About from './pages/About'
 
@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 function App() {
   return (
     <div>
-      
+      <Pagenav/>
     </div>
   );
 }
