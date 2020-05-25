@@ -1,34 +1,29 @@
-import React from 'react';
-import Form from './pages/Form';
-import About from './pages/About'
+import React from "react";
+// import Form from './pages/Form';
+// import About from './pages/About';
 
-function Commisions() {
-  return (
-    console.log("pressed"),
-    <Form />
-  )
-}
+// function Forms(){
+//  <Form/>
+// }
+// <button onClick={Forms}>Commissions</button>;
 
-function Info() {
-  return (
-    <About />
-  )
-}
-
+// function Info(){
+//   <About/>
+//  }
+//  <button onClick={Info}>Commissions</button>;
 
 function App() {
   return (
     <div>
       <nav className="navbar navbar-light bg-light">
         <form className="form-inline">
-          <button type="button" className="btn btn-primary" onClick={App}>Home</button>
-          <button type="button" className="btn btn-secondary" onClick={Commisions}>Commisions</button>
-          <button type="button" className="btn btn-info" onClick={Info}>About</button>
+        <button type="button" className="btn btn-outline-info" data-toggle="button" aria-pressed="false">About</button>
+        <button type="button" className="btn btn-outline-primary" data-toggle="button" aria-pressed="false">Home</button>
+        <button type="button" className="btn btn-outline-secondary" data-toggle="button" aria-pressed="false">Commissions</button>
         </form>
       </nav>
       <div className="jumbotron jumbotron-fluid">
         <div className="container">
-
           <h1 className="display-4">Arts and Such</h1>
           <p className="lead">For all your commision needs!</p>
           <div className="card-group">
@@ -61,15 +56,12 @@ function App() {
           <div class="row">
             <div class="col-md-12 py-5">
               <div class="mb-5 flex-center">
-                <a class="li-ic">
-                  <i class="fab fa-linkedin-in fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
-                </a>
               </div>
             </div>
           </div>
         </div>
         <div class="footer-copyright text-center py-3">© 2020 Copyright:
-    <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+    <a href="#"> ArtsAndSuch</a>
         </div>
       </footer>
     </div>

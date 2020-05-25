@@ -1,5 +1,5 @@
 import React from 'react';
-import "../App"
+import "../App";
 // import Form from "./Form";
 
 function About() {
