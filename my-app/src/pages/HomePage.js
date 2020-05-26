@@ -1,7 +1,7 @@
 import React from "react";
 import lineart from "../images/evelynimag1"
 import coloredart from "../images/drawing-with-mouse"
-import fullart from "../images/backgrounds-2"
+import fullart from "../images/ahhh-myeyes"
 
 
 function Home() {
