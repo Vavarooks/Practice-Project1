@@ -1,4 +1,6 @@
 import React from "react";
+import lineart from "../images/evelynimag1"
+import coloredart from "../images/drawing-with-mouse"
 
 
 function Home() {
@@ -13,7 +15,7 @@ function Home() {
                     <p className="lead">For all your commision needs!</p>
                     <div className="card-group">
                         <div className="card">
-                            <img src="https://picsum.photos/200/180" className="card-img-top" alt="..." />
+                            <img src={lineart} className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Line Art</h5>
                                 <p className="card-text">Just for your line art needs</p>
@@ -59,6 +61,7 @@ function Home() {
                                     <label for="exampleFormControlTextarea1">Example textarea</label>
                                     <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                                 </div>
+                                <button type="submit" class="btn btn-primary">Submit</button>
                             </form>
                         </div>
                     </div></div>
