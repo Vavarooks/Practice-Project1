@@ -1,6 +1,7 @@
 import React from "react";
 import lineart from "../images/evelynimag1"
 import coloredart from "../images/drawing-with-mouse"
+import fullart from "../images/backgrounds-2"
 
 
 function Home() {
@@ -22,14 +23,14 @@ function Home() {
                             </div>
                         </div>
                         <div className="card">
-                            <img src="https://picsum.photos/200/180" className="card-img-top" alt="..." />
+                            <img src={coloredart} className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Line and colored</h5>
                                 <p className="card-text">A colored line art piece.</p>
                             </div>
                         </div>
                         <div className="card">
-                            <img src="https://picsum.photos/200/180" className="card-img-top" alt="..." />
+                            <img src={fullart} className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Colored art with background</h5>
                                 <p className="card-text">A colored work with a colored background.</p>
