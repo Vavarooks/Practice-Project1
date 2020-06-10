@@ -1,14 +1,11 @@
 import React from "react";
-import lineart from "../images/evelynimag1"
-import coloredart from "../images/drawing-with-mouse"
-import fullart from "../images/ahhh-myeyes"
 
 
 function Home() {
     return (
         <div>
-            <nav class="navbar fixed-top navbar-light bg-light">
-                <a class="navbar-brand" href="#">Welcome</a>
+            <nav className="navbar fixed-top navbar-light bg-light">
+                <a className="navbar-brand">Welcome</a>
             </nav>
             <div className="jumbotron jumbotron-fluid">
                 <div className="container">
@@ -16,21 +13,21 @@ function Home() {
                     <p className="lead">For all your commision needs!</p>
                     <div className="card-group">
                         <div className="card">
-                            <img src={lineart} className="card-img-top" alt="..." />
+                            <img src="./images/Line-art.jpg" className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Line Art</h5>
                                 <p className="card-text">Just for your line art needs</p>
                             </div>
                         </div>
                         <div className="card">
-                            <img src={coloredart} className="card-img-top" alt="..." />
+                            <img src="./image/Colored-charater.jpg" className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Line and colored</h5>
                                 <p className="card-text">A colored line art piece.</p>
                             </div>
                         </div>
                         <div className="card">
-                            <img src={fullart} className="card-img-top" alt="..." />
+                            <img src="./color-and-background.jpg" className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Colored art with background</h5>
                                 <p className="card-text">A colored work with a colored background.</p>
@@ -70,14 +67,14 @@ function Home() {
                         <div className="container">
                             <h1 className="display-4">About Page</h1>
                             <div className="card mb-3">
-                                <img src="..." className="card-img-top" alt="..." />
+                                <img src="./images/artist.jpg" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title">Artist</h5>
                                     <p className="card-text">Makes the art that is commisioned!</p>
                                 </div>
                             </div>
                             <div className="card mb-3">
-                                <img src="..." className="card-img-top" alt="..." />
+                                <img src="./images/programer.jpg" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title">Programmer</h5>
                                     <p className="card-text">Made the webpage!</p>
