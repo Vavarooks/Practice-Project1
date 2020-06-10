@@ -20,14 +20,14 @@ function Home() {
                             </div>
                         </div>
                         <div className="card">
-                            <img src="./image/Colored-charater.jpg" className="card-img-top" alt="..." />
+                            <img src="./images/Colored-charater.jpg" className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Line and colored</h5>
                                 <p className="card-text">A colored line art piece.</p>
                             </div>
                         </div>
                         <div className="card">
-                            <img src="./color-and-background.jpg" className="card-img-top" alt="..." />
+                            <img src="./images/color-and-background.jpg" className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Colored art with background</h5>
                                 <p className="card-text">A colored work with a colored background.</p>
