@@ -13,7 +13,7 @@ function Home() {
                     <p className="lead">For all your commision needs!</p>
                     <div className="card-group">
                         <div className="card">
-                            <img src="./images/Line-art.jpg" className="card-img-top" alt="..." />
+                            <img src="./images/line-art2.jpg" className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Line Art</h5>
                                 <p className="card-text">Just for your line art needs</p>
