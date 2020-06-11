@@ -83,7 +83,7 @@ function Home() {
                         </div>
                     </div></div>
                     <div className="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-                    <h1>Contact us at <span className="badge badge-secondary">FakeEmail!aol.com</span></h1>
+                    <h1>Contact us at <span className="badge badge-secondary">MidnightRacc00n@gmail.com</span></h1>
                     </div>
                 </div>
             </div>
