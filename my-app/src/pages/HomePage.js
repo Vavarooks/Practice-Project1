@@ -56,7 +56,7 @@ function Home() {
                                     <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
                                 </div>
                                 <div className="form-group">
-                                    <label for="exampleFormControlTextarea1">Example textarea</label>
+                                    <label for="exampleFormControlTextarea1">Message</label>
                                     <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                                 </div>
                                 <button type="submit" class="btn btn-primary">Submit</button>
@@ -83,7 +83,7 @@ function Home() {
                         </div>
                     </div></div>
                     <div className="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-                    <h1>Contact us at <span className="badge badge-secondary">MidnightRacc00n@gmail.com</span></h1>
+                    <h1>Contact us at <span className="badge badge-secondary">vavarooks@aol.com</span></h1>
                     </div>
                 </div>
             </div>
