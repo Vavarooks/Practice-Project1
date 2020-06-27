@@ -7,7 +7,7 @@ function Coding() {
             <nav className="navbar fixed-top navbar-light bg-light">
                 <a className="navbar-brand">Programmer Page</a>
             </nav>
-            <div className="jumbotron jumbotron-fluid">
+  
                 <div className="container">
                     <h1 className="display-4">Arts and Such</h1>
                     <p className="lead">For all your commision needs!</p>
@@ -71,16 +71,17 @@ function Coding() {
                                 <img src="./images/programer.jpg" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title">Programmer</h5>
-                                    <p className="card-text">Graduate of Berkely Bootcamp Extension. Also has experiance with Torchlight II Programming.</p>
+                                    <p className="card-text">Maked the page and other smaller projetcs.</p>
                                 </div>
                             </div>
                         </div>
-                    </div></div>
+                    </div>
+                    </div>
                     <div className="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
                     <h1>Contact us at <span className="badge badge-secondary">vavarooks@aol.com</span></h1>
                     </div>
                 </div>
-            </div>
+            
             <footer class="footer">
       <div class="container">
         <span class="text-muted">&copy; 2020, Arts and Such</span>

@@ -7,7 +7,7 @@ function Art() {
             <nav className="navbar fixed-top navbar-light bg-light">
                 <a className="navbar-brand">Welcome</a>
             </nav>
-            <div className="jumbotron jumbotron-fluid">
+          
                 <div className="container">
                     <h1 className="display-4">Arts and Such</h1>
                     <p className="lead">For all your commision needs!</p>
@@ -80,7 +80,7 @@ function Art() {
                     <h1>Contact us at <span className="badge badge-secondary">vavarooks@aol.com</span></h1>
                     </div>
                 </div>
-            </div>
+            
             <footer class="footer">
       <div class="container">
         <span class="text-muted">&copy; 2020, Arts and Such</span>

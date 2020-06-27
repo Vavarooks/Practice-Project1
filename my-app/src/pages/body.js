@@ -6,7 +6,7 @@ function Body() {
             <nav className="navbar fixed-top navbar-light bg-light">
                 <a className="navbar-brand">Welcome</a>
             </nav>
-            <div className="jumbotron jumbotron-fluid">
+           
                 <h1>
                     Arts and Such Home Page!
                 </h1>
@@ -15,7 +15,7 @@ function Body() {
                     Make sure to contact us for any commisions and or reviews!
                     Thank you for visting out website.
                 </h2>
-         </div>
+
         </div>
     );
 }
