@@ -3,9 +3,6 @@ import React from "react";
 function Body() {
     return (
         <div>
-            <nav className="navbar fixed-top navbar-light bg-light">
-                <a className="navbar-brand">Welcome</a>
-            </nav>
 
             <h1>
                 Arts and Such Home Page!
@@ -15,11 +12,6 @@ function Body() {
                 Make sure to contact us for any commisions and or reviews!
                 Thank you for visting out website.
                 </h2>
-            <footer class="footer">
-                <div class="container">
-                    <span class="text-muted">&copy; 2020, Arts and Such</span>
-                </div>
-            </footer>
         </div>
     );
 }

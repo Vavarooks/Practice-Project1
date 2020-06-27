@@ -4,12 +4,7 @@ import React from "react";
 function Coding() {
     return (
         <div>
-            <nav className="navbar fixed-top navbar-light bg-light">
-                <a className="navbar-brand">Programmer Page</a>
-            </nav>
             <div className="container">
-                <h1 className="display-4">Arts and Such</h1>
-                <p className="lead">For all your commision needs!</p>
                 <p>Example works</p>
                 <div className="card-group">
                     <div className="card">
@@ -37,18 +32,6 @@ function Coding() {
                             <p className="card-text">
                                 <a class="nav-link" href="https://vavarooks.github.io/Homework6/">Weather App</a>
                             </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div className="jumbotron jumbotron-fluid">
-                <div className="container">
-                    <h1 className="display-4">About Page</h1>
-                    <div className="card mb-3">
-                        <img src="./images/programer.jpg" className="card-img-top" alt="..." />
-                        <div className="card-body">
-                            <h5 className="card-title">Programmer</h5>
-                            <p className="card-text">Maked the page and other smaller projetcs.</p>
                         </div>
                     </div>
                 </div>
