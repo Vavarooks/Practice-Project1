@@ -8,9 +8,10 @@ function Body() {
                 Arts and Such Home Page!
                 </h1>
             <h2>
-                You can look at the artist tab for the information about the artist or the programming page for the information about the programmer!
+                You can look at the artist tab for the information about the artist or 
+                the programming tab for the information about the programmer!
                 Make sure to contact us for any commisions and or reviews!
-                Thank you for visting out website.
+                Thank you for visting our website.
                 </h2>
         </div>
     );
