@@ -1,8 +1,15 @@
-### Notice
+# Arts and Such!
 
-A commisions webstite for my sister, and very easy to use.
+- For your art and programming needs!
 
-Works and looks okay.
+## Uses
 
-Uses Heroku, React, and Node.js
+- Heroku
 
+- Node.js
+
+- React
+
+### Accsess
+
+- https://x-kitty-commissions.herokuapp.com/
