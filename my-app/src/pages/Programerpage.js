@@ -7,53 +7,52 @@ function Coding() {
             <nav className="navbar fixed-top navbar-light bg-light">
                 <a className="navbar-brand">Programmer Page</a>
             </nav>
-                <div className="container">
-                    <h1 className="display-4">Arts and Such</h1>
-                    <p className="lead">For all your commision needs!</p>
-                    <p>Example works</p>
-                    <div className="card-group">
-                        <div className="card">
-                            <img src="./images/StockApp.jpg" className="card-img-top" alt="..." />
-                            <div className="card-body">
-                                <h5 className="card-title">Group Project A Stocks App</h5>
-                                <p className="card-text">
-                                    <a class="nav-link" href=" https://stormy-refuge-75970.herokuapp.com/">Stock App</a>
-                                </p>
-                            </div>
+            <div className="container">
+                <h1 className="display-4">Arts and Such</h1>
+                <p className="lead">For all your commision needs!</p>
+                <p>Example works</p>
+                <div className="card-group">
+                    <div className="card">
+                        <img src="./images/StockApp.jpg" className="card-img-top" alt="..." />
+                        <div className="card-body">
+                            <h5 className="card-title">Group Project A Stocks App</h5>
+                            <p className="card-text">
+                                <a class="nav-link" href=" https://stormy-refuge-75970.herokuapp.com/">Stock App</a>
+                            </p>
                         </div>
-                        <div className="card">
-                            <img src="./images/StarwasApp.jpg" className="card-img-top" alt="..." />
-                            <div className="card-body">
-                                <h5 className="card-title">Group Project Jedi Quiz.</h5>
-                                <p className="card-text"> 
+                    </div>
+                    <div className="card">
+                        <img src="./images/StarwasApp.jpg" className="card-img-top" alt="..." />
+                        <div className="card-body">
+                            <h5 className="card-title">Group Project Jedi Quiz.</h5>
+                            <p className="card-text">
                                 <a class="nav-link" href="https://fanuelproject2.herokuapp.com/">Starwars Quiz App</a>
-                                </p>
-                            </div>
+                            </p>
                         </div>
-                        <div className="card">
-                            <img src="./images/WeatherApp.jpg" className="card-img-top" alt="..." />
-                            <div className="card-body">
-                                <h5 className="card-title">A Basic Weather App</h5>
-                                <p className="card-text">
+                    </div>
+                    <div className="card">
+                        <img src="./images/WeatherApp.jpg" className="card-img-top" alt="..." />
+                        <div className="card-body">
+                            <h5 className="card-title">A Basic Weather App</h5>
+                            <p className="card-text">
                                 <a class="nav-link" href="https://vavarooks.github.io/Homework6/">Weather App</a>
-                                </p>
-                            </div>
+                            </p>
                         </div>
                     </div>
                 </div>
-                    <div className="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab"><div className="jumbotron jumbotron-fluid">
-                        <div className="container">
-                            <h1 className="display-4">About Page</h1>
-                            <div className="card mb-3">
-                                <img src="./images/programer.jpg" className="card-img-top" alt="..." />
-                                <div className="card-body">
-                                    <h5 className="card-title">Programmer</h5>
-                                    <p className="card-text">Maked the page and other smaller projetcs.</p>
-                                </div>
-                            </div>
+            </div>
+            <div className="jumbotron jumbotron-fluid">
+                <div className="container">
+                    <h1 className="display-4">About Page</h1>
+                    <div className="card mb-3">
+                        <img src="./images/programer.jpg" className="card-img-top" alt="..." />
+                        <div className="card-body">
+                            <h5 className="card-title">Programmer</h5>
+                            <p className="card-text">Maked the page and other smaller projetcs.</p>
                         </div>
                     </div>
                 </div>
+            </div>
         </div>
     );
 }
