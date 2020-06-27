@@ -91,4 +91,4 @@ function Art() {
 }
 
 
-export default Home;
+export default Art;
