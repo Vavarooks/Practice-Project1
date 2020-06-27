@@ -32,11 +32,6 @@ function Home() {
   <div className="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab"><Art/></div>
   <div className="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab"><Programming/></div>
 </div>      
-            <footer class="footer">
-      <div class="container">
-        <span class="text-muted">&copy; 2020, Arts and Such</span>
-      </div>
-    </footer>
         </div>
     );
 }

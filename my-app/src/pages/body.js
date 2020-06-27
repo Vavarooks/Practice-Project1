@@ -15,7 +15,11 @@ function Body() {
                     Make sure to contact us for any commisions and or reviews!
                     Thank you for visting out website.
                 </h2>
-
+                <footer class="footer">
+      <div class="container">
+        <span class="text-muted">&copy; 2020, Arts and Such</span>
+      </div>
+    </footer>
         </div>
     );
 }
