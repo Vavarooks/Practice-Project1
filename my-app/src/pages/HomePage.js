@@ -27,7 +27,7 @@ function Home() {
   </li>
 </ul>
 <div className="tab-content" id="myTabContent">
-  <div className="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab"><Home/></div>
+  <div className="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">Home</div>
   <div className="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab"><Art/></div>
   <div className="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab"><Programming/></div>
 </div>      
