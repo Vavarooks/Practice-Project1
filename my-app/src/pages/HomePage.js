@@ -61,7 +61,6 @@ function Home() {
                 <p className="card-text">Makes the art that is commisioned!</p>
             </div>
         </div>
-        <div className="jumbotron jumbotron-fluid">
 <div className="container">
     <h1 className="display-4">About Page</h1>
     <div className="card mb-3">
@@ -71,7 +70,6 @@ function Home() {
             <p className="card-text">Maked the page and other smaller projetcs.</p>
         </div>
     </div>
-</div>
 </div>
     </div>
         </div>
