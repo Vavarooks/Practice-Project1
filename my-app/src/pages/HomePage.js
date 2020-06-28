@@ -53,7 +53,7 @@ function Home() {
         </div>
         <div className="tab-pane fade" id="about" role="tabpanel" aria-labelledby="about-tab">
         <div className="container">
-        <h1 className="display-4">About Page</h1>
+        <h1 className="display-4">Evelyn Emerick</h1>
         <div className="card mb-3">
             <img src="./images/artist.jpg" className="card-img-top" alt="..." />
             <div className="card-body">
@@ -62,7 +62,7 @@ function Home() {
             </div>
         </div>
 <div className="container">
-    <h1 className="display-4">About Page</h1>
+    <h1 className="display-4">Vanessa Emerick</h1>
     <div className="card mb-3">
         <img src="./images/programer.jpg" className="card-img-top" alt="..." />
         <div className="card-body">
