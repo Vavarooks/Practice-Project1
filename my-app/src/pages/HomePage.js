@@ -77,8 +77,8 @@ function Home() {
         <h1>Contact us at <span className="badge badge-secondary">artsandsuch01@gmail.com
 </span></h1>
         </div>
+        <br/>
       </div>
-     
             <footer class="footer">
                 <div class="container">
                     <span class="text-muted">2020, Arts and Such</span>
