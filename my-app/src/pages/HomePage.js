@@ -38,7 +38,7 @@ function Home() {
         <div className="tab-pane fade" id="commissions" role="tabpanel" aria-labelledby="commissions-tab">
         <div className="container">
         <h1 className="display-4">Commission Page</h1>
-        <form action="mailto:vavarooks@aol.com" method="post" enctype="text/plain">
+        <form action="mailto:artsandsuch01@gmail.com" method="post" enctype="text/plain">
             <div className="form-group">
                 <label for="exampleFormControlInput1">Email address</label>
                 <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
@@ -74,13 +74,14 @@ function Home() {
     </div>
         </div>
         <div className="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-        <h1>Contact us at <span className="badge badge-secondary">vavarooks@aol.com</span></h1>
+        <h1>Contact us at <span className="badge badge-secondary">artsandsuch01@gmail.com
+</span></h1>
         </div>
       </div>
      
             <footer class="footer">
                 <div class="container">
-                    <span class="text-muted">&copy; 2020, Arts and Such</span>
+                    <span class="text-muted">2020, Arts and Such</span>
                 </div>
             </footer>
     </div>
