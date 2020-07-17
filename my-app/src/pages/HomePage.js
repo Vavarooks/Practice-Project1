@@ -2,6 +2,7 @@ import React from "react";
 import Art from "./Artpage";
 import Programming from "./Programerpage";
 import Body from "./body";
+import Buyer from "./BuyerPage";
 
 
 function Home() {
@@ -22,10 +23,13 @@ function Home() {
           <a className="nav-link" id="programmer-tab" data-toggle="tab" href="#programmer" role="tab" aria-controls="programmer" aria-selected="false">Programmer</a>
         </li>
         <li className="nav-item" role="presentation">
-          <a className="nav-link" id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" aria-selected="false">About</a>
+          <a className="nav-link" id="commissions-tab" data-toggle="tab" href="#commissions" role="tab" aria-controls="commissions" aria-selected="false">Commissions</a>
         </li>
         <li className="nav-item" role="presentation">
-          <a className="nav-link" id="commissions-tab" data-toggle="tab" href="#commissions" role="tab" aria-controls="commissions" aria-selected="false">Commissions</a>
+          <a className="nav-link" id="buyer-tab" data-toggle="tab" href="#buyer" role="tab" aria-controls="buyer" aria-selected="false">Buy Art</a>
+        </li>
+        <li className="nav-item" role="presentation">
+          <a className="nav-link" id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" aria-selected="false">About</a>
         </li>
         <li className="nav-item" role="presentation">
           <a className="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Contact us</a>
@@ -35,6 +39,7 @@ function Home() {
         <div className="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab"><Body/></div>
         <div className="tab-pane fade" id="artist" role="tabpanel" aria-labelledby="artist-tab"><Art/></div>
         <div className="tab-pane fade" id="programmer" role="tabpanel" aria-labelledby="programmer-tab"><Programming/></div>
+        <div className="tab-pane fade" id="buyer" role="tabpanel" aria-labelledby="buyer-tab"><Buyer/></div>
         <div className="tab-pane fade" id="commissions" role="tabpanel" aria-labelledby="commissions-tab">
         <div className="container">
         <h1 className="display-4">Commission Page</h1>
