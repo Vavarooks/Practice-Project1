@@ -4,11 +4,11 @@ function Body() {
     return (
         <div>
 
-            <header>
+            <header id= "Head">
             Arts and Such Home Page!
             </header>
             <br/>
-            <h2>
+            <h2 id="Text">
                 You can look at the artist tab for the information about the artist or 
                 the programming tab for the information about the programmer!
                 Make sure to contact us for any commisions and or reviews!
