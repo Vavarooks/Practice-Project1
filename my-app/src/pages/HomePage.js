@@ -9,8 +9,8 @@ function Home() {
   return (
     <div>
      <header>
-     <h1 className="display-4">Arts and Such</h1>
-    <p className="lead">For all your commision needs!</p>
+     <h1 className="display-4" id="title">Arts and Such</h1>
+    <p className="lead" id="title">For all your commision needs!</p>
      </header>
       <ul className="nav nav-tabs" id="myTab" role="tablist">
         <li className="nav-item" role="presentation">
