@@ -4,9 +4,10 @@ function Body() {
     return (
         <div>
 
-            <h1>
-                Arts and Such Home Page!
-                </h1>
+            <header>
+            Arts and Such Home Page!
+            </header>
+            <br/>
             <h2>
                 You can look at the artist tab for the information about the artist or 
                 the programming tab for the information about the programmer!
