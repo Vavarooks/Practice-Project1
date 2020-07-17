@@ -3,7 +3,6 @@ import React from "react";
 function Body() {
     return (
         <div>
-
             <header id= "Head">
             Arts and Such Home Page!
             </header>
