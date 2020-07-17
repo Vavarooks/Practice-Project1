@@ -15,7 +15,7 @@ function Buyer() {
                                     <label for="exampleFormControlInput1">Email address</label>
                                     <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
                                 </div>
-                                <button type="submit" class="btn btn-primary">Submit</button>
+                                <button type="submit" class="btn btn-primary">Buy</button>
                             </form>
                         </div>
                     </div>
@@ -31,7 +31,7 @@ function Buyer() {
                                     <label for="exampleFormControlInput1">Email address</label>
                                     <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
                                 </div>
-                                <button type="submit" class="btn btn-primary">Submit</button>
+                                <button type="submit" class="btn btn-primary">Buy</button>
                             </form>
                         </div>
                     </div>
