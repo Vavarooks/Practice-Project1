@@ -13,7 +13,7 @@ function Art() {
                             <h5 className="card-title">Line Art</h5>
                             <p className="card-text">Around $4 (Prices may very)</p>
                             <p className="card-text">
-                                <a class="nav-link" href="./Lineimage.html">Images</a>
+                                <a class="nav-link" href="./Lineimage.js">Images</a>
                             </p>
                         </div>
                     </div>
@@ -23,7 +23,7 @@ function Art() {
                             <h5 className="card-title">Line and colored</h5>
                             <p className="card-text">Around $10 (Prices may very)</p>
                             <p className="card-text">
-                                <a class="nav-link" href="./ColorImages.html">Images</a>
+                                <a class="nav-link" href="./ColorImages.js">Images</a>
                             </p>
                         </div>
                     </div>
@@ -33,7 +33,7 @@ function Art() {
                             <h5 className="card-title">Colored art with background</h5>
                             <p className="card-text">Around $15 (Prices may very)</p>
                             <p className="card-text">
-                                <a class="nav-link" href="./Backgroundimages.html">Images</a>
+                                <a class="nav-link" href="./Backgroundimages.js">Images</a>
                             </p>
                         </div>
                     </div>

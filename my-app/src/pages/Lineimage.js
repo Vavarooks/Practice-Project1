@@ -1,4 +1,8 @@
+import React from "react";
 
+function Limages() {
+    return (
+        <div>
             <div className="row">
                 <div className="col-sm-6">
                     <div className="card">
@@ -17,4 +21,9 @@
                     </div>
                 </div>
             </div>
-    
+        </div>
+    );
+}
+
+
+export default Limages;
