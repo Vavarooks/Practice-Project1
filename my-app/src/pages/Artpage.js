@@ -12,6 +12,9 @@ function Art() {
                         <div className="card-body">
                             <h5 className="card-title">Line Art</h5>
                             <p className="card-text">Around $4 (Prices may very)</p>
+                            <p className="card-text">
+                                <a class="nav-link" href="./Lineimage.html">Images</a>
+                            </p>
                         </div>
                     </div>
                     <div className="card">
@@ -19,6 +22,9 @@ function Art() {
                         <div className="card-body">
                             <h5 className="card-title">Line and colored</h5>
                             <p className="card-text">Around $10 (Prices may very)</p>
+                            <p className="card-text">
+                                <a class="nav-link" href="./ColorImages.html">Images</a>
+                            </p>
                         </div>
                     </div>
                     <div className="card">
@@ -26,7 +32,9 @@ function Art() {
                         <div className="card-body">
                             <h5 className="card-title">Colored art with background</h5>
                             <p className="card-text">Around $15 (Prices may very)</p>
-                           
+                            <p className="card-text">
+                                <a class="nav-link" href="./Backgroundimages.html">Images</a>
+                            </p>
                         </div>
                     </div>
                 </div>
