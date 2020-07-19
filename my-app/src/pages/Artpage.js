@@ -121,14 +121,13 @@ function Art() {
             <div className="container">
                 <div className="card-group">
                     <div className="card">
-                        <img src="./images/Example3.jpg" className="card-img-top" />
+                    <a data-toggle="modal" data-target="#Modal1">
+                    <img src="./images/Example3.jpg" className="card-img-top" />
+                    </a>
                         <div className="card-body">
                             <h5 className="card-title">Line Art</h5>
                             <p className="card-text">Around $4 (Prices may very)</p>
                         </div>
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#Modal1">
-                            Image
-                    </button>
                     </div>
                     <div className="card">
                         <img src="./images/Example2.jpg" className="card-img-top" />
