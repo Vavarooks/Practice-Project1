@@ -130,24 +130,22 @@ function Art() {
                         </div>
                     </div>
                     <div className="card">
-                        <img src="./images/Example2.jpg" className="card-img-top" />
+                    <a data-toggle="modal" data-target="#Modal1">
+                    <img src="./images/Example2.jpg" className="card-img-top" />
+                    </a>
                         <div className="card-body">
                             <h5 className="card-title">Line and colored</h5>
                             <p className="card-text">Around $10 (Prices may very)</p>
                         </div>
-                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#Modal2">
-                            Image
-                    </button>
                     </div>
                     <div className="card">
-                        <img src="./images/Example1.png" className="card-img-top" />
+                    <a data-toggle="modal" data-target="#Modal1">
+                    <img src="./images/Example1.jpg" className="card-img-top" />
+                    </a>
                         <div className="card-body">
                             <h5 className="card-title">Colored art with background</h5>
                             <p className="card-text">Around $15 (Prices may very)</p>
                         </div>
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#Modal3">
-                            Image
-                    </button>
                     </div>
                 </div>
             </div>
