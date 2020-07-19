@@ -1,4 +1,7 @@
 import React from "react";
+import Bimage from "./Bimage";
+import Cimage from "./Cimage";
+import Limage from "./Limage.js";
 
 
 function Art() {
@@ -7,7 +10,7 @@ function Art() {
             <div className="container">
                 <div className="card-group">
                     <div className="card">
-                        <a href="./Limage.html">
+                        <a href="Limage/>">
                             <img src="./images/Example3.jpg" className="card-img-top" />
                         </a>
                         <div className="card-body">
@@ -16,7 +19,7 @@ function Art() {
                         </div>
                     </div>
                     <div className="card">
-                        <a href="./Cimage.html">
+                        <a href="<Cimage>/">
                             <img src="./images/Example2.jpg" className="card-img-top" />
                         </a>
                         <div className="card-body">
@@ -25,8 +28,8 @@ function Art() {
                         </div>
                     </div>
                     <div className="card">
-                        <a href="./Bimage.html">
-                            <img src="./images/Example1.jpg" className="card-img-top" />
+                        <a href="<Limage/>">
+                            <img src="./images/Example1.png" className="card-img-top" />
                         </a>
                         <div className="card-body">
                             <h5 className="card-title">Colored art with background</h5>
