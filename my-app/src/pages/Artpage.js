@@ -1,8 +1,4 @@
 import React from "react";
-// import Bimage from "./Bimage";
-// import Cimage from "./Cimage";
-// import Limage from "./Limage.js";
-
 
 function Art() {
     return (
