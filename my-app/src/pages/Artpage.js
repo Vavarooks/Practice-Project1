@@ -136,7 +136,7 @@ function Art() {
                     </div>
                     <div className="card">
                     <a data-toggle="modal" data-target="#Modal1">
-                    <img src="./images/Example1.jpg" className="card-img-top" />
+                    <img src="./images/Example1.png" className="card-img-top" />
                     </a>
                         <div className="card-body">
                             <h5 className="card-title">Colored art with background</h5>
