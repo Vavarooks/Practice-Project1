@@ -23,8 +23,7 @@ function Art() {
                                         <div className="card-body">
                                             <h5 className="card-title">Special title treatment</h5>
                                             <img className="card-img-top" src=".../100px180/?text=Image cap" alt="Card image cap" />
-                                            <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                                            <p className="card-text">Discription</p>
                                         </div>
                                     </div>
                                 </div>
@@ -33,8 +32,7 @@ function Art() {
                                         <div className="card-body">
                                             <h5 className="card-title">Special title treatment</h5>
                                             <img className="card-img-top" src=".../100px180/?text=Image cap" alt="Card image cap" />
-                                            <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                                            <p className="card-text">Discription</p>
                                         </div>
                                     </div>
                                 </div>
@@ -61,7 +59,7 @@ function Art() {
                                     <div className="card">
                                         <div className="card-body">
                                             <h5 className="card-title">Special title treatment</h5>
-                                            <img className="card-img-top" src=".../100px180/?text=Image cap" alt="Card image cap" />
+                                            <img className="card-img-top" src=".../100px180/?text=Image cap" alt="Card image cap"/>
                                             <p className="card-text">Discription</p>
                                         </div>
                                     </div>
@@ -108,7 +106,7 @@ function Art() {
                                         <div className="card-body">
                                             <h5 className="card-title">Special title treatment</h5>
                                             <img className="card-img-top" src=".../100px180/?text=Image cap" alt="Card image cap" />
-                                            <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                            <p className="card-text">Discription</p>
                                         </div>
                                     </div>
                                 </div>
@@ -154,8 +152,6 @@ function Art() {
                     </div>
                 </div>
             </div>
-
-
         </div>
     );
 }
