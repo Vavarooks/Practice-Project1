@@ -8,7 +8,11 @@ function Art() {
 
                 <div className="card-group">
                     <div className="card">
-                        <img src="./images/Example3.jpg" className="card-img-top" />
+
+                        <a href="./">
+                            <img src="./images/Example3.jpg" className="card-img-top" />
+                        </a>
+
                         <div className="card-body">
                             <h5 className="card-title">Line Art</h5>
                             <p className="card-text">Around $4 (Prices may very)</p>
