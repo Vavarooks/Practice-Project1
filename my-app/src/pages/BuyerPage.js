@@ -10,7 +10,7 @@ function Buyer() {
                             <h5 className="card-title">Item Name</h5>
                             <img src="..." className="card-img-top" alt="..." />
                             <p className="card-text">Discription</p>
-                            <form action="mailto:artsandsuch01@gmail.com" method="post" enctype="text/plain">
+                            <form action='mailto:artsandsuch01@gmail.com?subject = Item1&body = Message' method="post" enctype="text/plain">
                                 <div className="form-group">
                                     <label for="exampleFormControlInput1">Email address</label>
                                     <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
@@ -26,7 +26,7 @@ function Buyer() {
                             <h5 className="card-title">Item Name</h5>
                             <img src="..." className="card-img-top" alt="..." />
                             <p className="card-text">Discription</p>
-                            <form action="mailto:artsandsuch01@gmail.com" method="post" enctype="text/plain">
+                            <form action='mailto:artsandsuch01@gmail.com?subject = Item2&body = Message' method="post" enctype="text/plain">
                                 <div className="form-group">
                                     <label for="exampleFormControlInput1">Email address</label>
                                     <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />

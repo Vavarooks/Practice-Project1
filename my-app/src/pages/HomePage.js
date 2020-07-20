@@ -43,7 +43,7 @@ function Home() {
         <div className="tab-pane fade" id="commissions" role="tabpanel" aria-labelledby="commissions-tab">
         <div className="container">
         <h1 className="display-4">Commission Page</h1>
-        <form action="mailto:artsandsuch01@gmail.com" method="post" enctype="text/plain">
+        <form action='mailto:artsandsuch01@gmail.com?subject = Commission&body = Message' method="post" enctype="text/plain">
             <div className="form-group">
                 <label for="exampleFormControlInput1">Email address</label>
                 <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
