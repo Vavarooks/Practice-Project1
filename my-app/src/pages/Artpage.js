@@ -18,7 +18,7 @@ function Art() {
                                     <div className="card">
                                         <div className="card-body">
                                             <h5 className="card-title">Special title treatment</h5>
-                                            <img  src="./images/Example4.png" style="width:500px;height:600px;" className="card-img-top"/>
+                                            <img  src="./images/Example4.png" id="Style" className="card-img-top"/>
                                             <p className="card-text">Discription</p>
                                         </div>
                                     </div>
@@ -27,7 +27,7 @@ function Art() {
                                     <div className="card">
                                         <div className="card-body">
                                             <h5 className="card-title">Special title treatment</h5>
-                                            <img src="./images/Example5.jpg" style="width:500px;height:600px;" className="card-img-top"/>
+                                            <img src="./images/Example5.jpg" id="Style" className="card-img-top"/>
                                             <p className="card-text">Discription</p>
                                         </div>
                                     </div>
@@ -55,7 +55,7 @@ function Art() {
                                     <div className="card">
                                         <div className="card-body">
                                             <h5 className="card-title">Special title treatment</h5>
-                                            <img className="card-img-top" src="..." style="width:500px;height:600px;"/>
+                                            <img className="card-img-top" src="..." id="Style"/>
                                             <p className="card-text">Discription</p>
                                         </div>
                                     </div>
@@ -64,7 +64,7 @@ function Art() {
                                     <div className="card">
                                         <div className="card-body">
                                             <h5 className="card-title">Special title treatment</h5>
-                                            <img className="card-img-top" src="..." style="width:500px;height:600px;"/>
+                                            <img className="card-img-top" src="..." id="Style"/>
                                             <p className="card-text">Discription</p>
                                         </div>
                                     </div>
@@ -92,7 +92,7 @@ function Art() {
                                     <div className="card">
                                         <div className="card-body">
                                             <h5 className="card-title">Special title treatment</h5>
-                                            <img className="card-img-top" src="..." style="width:500px;height:600px;"/>
+                                            <img className="card-img-top" src="..." id="Style"/>
                                             <p className="card-text">Discription</p>
                                         </div>
                                     </div>
@@ -101,7 +101,7 @@ function Art() {
                                     <div className="card">
                                         <div className="card-body">
                                             <h5 className="card-title">Special title treatment</h5>
-                                            <img className="card-img-top" src="..." style="width:500px;height:600px;"/>
+                                            <img className="card-img-top" src="..." id="Style"/>
                                             <p className="card-text">Discription</p>
                                         </div>
                                     </div>

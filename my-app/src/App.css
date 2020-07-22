@@ -2,6 +2,12 @@
  width: 18rem;
 }
 
+.Style {
+width:500px;
+height:600px;
+}
+
+
 #title{
 font-size: large;  
 font-style: italic !important;
