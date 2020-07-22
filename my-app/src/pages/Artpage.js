@@ -126,7 +126,7 @@ function Art() {
                         </div>
                     </div>
                     <div className="card">
-                    <a data-toggle="modal" data-target="#Modal1">
+                    <a data-toggle="modal" data-target="#Modal2">
                     <img src="./images/Example2.jpg" className="card-img-top" />
                     </a>
                         <div className="card-body">
@@ -135,7 +135,7 @@ function Art() {
                         </div>
                     </div>
                     <div className="card">
-                    <a data-toggle="modal" data-target="#Modal1">
+                    <a data-toggle="modal" data-target="#Modal3">
                     <img src="./images/Example1.png" className="card-img-top" />
                     </a>
                         <div className="card-body">
