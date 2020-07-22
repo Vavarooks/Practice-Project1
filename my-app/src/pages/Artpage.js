@@ -17,18 +17,18 @@ function Art() {
                                 <div className="col-sm-6">
                                     <div className="card">
                                         <div className="card-body">
-                                            <h5 className="card-title">Special title treatment</h5>
+                                            <h5 className="card-title">Castle</h5>
                                             <img  src="./images/Example4.png" id="Style" className="card-img-top"/>
-                                            <p className="card-text">Discription</p>
+                                            <p className="card-text">Basic Castle Line Art.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-sm-6">
                                     <div className="card">
                                         <div className="card-body">
-                                            <h5 className="card-title">Special title treatment</h5>
+                                            <h5 className="card-title">BallRoom</h5>
                                             <img src="./images/Example5.jpg" id="Style" className="card-img-top"/>
-                                            <p className="card-text">Discription</p>
+                                            <p className="card-text">Two People In A Ballroom.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -54,18 +54,18 @@ function Art() {
                                 <div className="col-sm-6">
                                     <div className="card">
                                         <div className="card-body">
-                                            <h5 className="card-title">Special title treatment</h5>
+                                            <h5 className="card-title">Demon</h5>
                                             <img className="card-img-top" src="./images/Example6.jpg" id="Style"/>
-                                            <p className="card-text">Discription</p>
+                                            <p className="card-text">Colored Image Demon Charater.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-sm-6">
                                     <div className="card">
                                         <div className="card-body">
-                                            <h5 className="card-title">Special title treatment</h5>
+                                            <h5 className="card-title">Cat Girl</h5>
                                             <img className="card-img-top" src="./images/Example7.jpg" id="Style"/>
-                                            <p className="card-text">Discription</p>
+                                            <p className="card-text">Colored Image Cat Girl.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -91,18 +91,18 @@ function Art() {
                                 <div className="col-sm-6">
                                     <div className="card">
                                         <div className="card-body">
-                                            <h5 className="card-title">Special title treatment</h5>
+                                            <h5 className="card-title">Happy Cat</h5>
                                             <img className="card-img-top" src="./images/Example8.jpg" id="Style"/>
-                                            <p className="card-text">Discription</p>
+                                            <p className="card-text">Happy From Fairy Tale.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-sm-6">
                                     <div className="card">
                                         <div className="card-body">
-                                            <h5 className="card-title">Special title treatment</h5>
+                                            <h5 className="card-title">Woman</h5>
                                             <img className="card-img-top" src="./images/Example9.jpg" id="Style"/>
-                                            <p className="card-text">Discription</p>
+                                            <p className="card-text">A Girl In Old Chinese Garb.</p>
                                         </div>
                                     </div>
                                 </div>
