@@ -18,7 +18,7 @@ function Art() {
                                     <div className="card">
                                         <div className="card-body">
                                             <h5 className="card-title">Special title treatment</h5>
-                                            <img  src="./images/Example4.png" className="card-img-top"/>
+                                            <img  src="./images/Example4.png/100px180/?text=Image cap" alt="Card image cap"className="card-img-top"/>
                                             <p className="card-text">Discription</p>
                                         </div>
                                     </div>
@@ -27,7 +27,7 @@ function Art() {
                                     <div className="card">
                                         <div className="card-body">
                                             <h5 className="card-title">Special title treatment</h5>
-                                            <img src="./images/Example5.jpg" className="card-img-top"/>
+                                            <img src="./images/Example5.jpg/100px180/?text=Image cap" alt="Card image cap"className="card-img-top"/>
                                             <p className="card-text">Discription</p>
                                         </div>
                                     </div>
