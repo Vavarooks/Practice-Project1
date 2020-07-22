@@ -3,9 +3,9 @@ import React from "react";
 function Body() {
     return (
         <div>
-            <header id= "Head">
+            <h1 id= "Head">
             Arts and Such Home Page!
-            </header>
+            </h1>
             <br/>
             <h2 id="Text">
                 You can look at the artist tab for the information about the artist or 
