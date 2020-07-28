@@ -21,10 +21,6 @@ function Art() {
                                             <img src="./images/Example4.png" id="Style" className="card-img-top" />
                                             <p className="card-text">Basic Castle Line Art.</p>
                                             <form action='mailto:artsandsuch01@gmail.com' method="post">
-                                                <div className="form-group">
-                                                    <label for="exampleFormControlInput1">Email address</label>
-                                                    <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
-                                                </div>
                                                 <button type="submit" class="btn btn-primary">Buy</button>
                                             </form>
                                         </div>
@@ -37,10 +33,6 @@ function Art() {
                                             <img src="./images/Example5.jpg" id="Style" className="card-img-top" />
                                             <p className="card-text">Two People In A Ballroom.</p>
                                             <form action='mailto:artsandsuch01@gmail.com' method="post">
-                                                <div className="form-group">
-                                                    <label for="exampleFormControlInput1">Email address</label>
-                                                    <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
-                                                </div>
                                                 <button type="submit" class="btn btn-primary">Buy</button>
                                             </form>
                                         </div>
@@ -72,10 +64,6 @@ function Art() {
                                             <img className="card-img-top" src="./images/Example6.jpg" id="Style" />
                                             <p className="card-text">Colored Image Demon Charater.</p>
                                             <form action='mailto:artsandsuch01@gmail.com' method="post">
-                                                <div className="form-group">
-                                                    <label for="exampleFormControlInput1">Email address</label>
-                                                    <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
-                                                </div>
                                                 <button type="submit" class="btn btn-primary">Buy</button>
                                             </form>
                                         </div>
@@ -88,10 +76,6 @@ function Art() {
                                             <img className="card-img-top" src="./images/Example7.jpg" id="Style" />
                                             <p className="card-text">Colored Image Cat Girl.</p>
                                             <form action='mailto:artsandsuch01@gmail.com' method="post">
-                                                <div className="form-group">
-                                                    <label for="exampleFormControlInput1">Email address</label>
-                                                    <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
-                                                </div>
                                                 <button type="submit" class="btn btn-primary">Buy</button>
                                             </form>
                                         </div>
@@ -123,10 +107,6 @@ function Art() {
                                             <img className="card-img-top" src="./images/Example8.jpg" id="Style" />
                                             <p className="card-text">Happy From Fairy Tale.</p>
                                             <form action='mailto:artsandsuch01@gmail.com' method="post">
-                                                <div className="form-group">
-                                                    <label for="exampleFormControlInput1">Email address</label>
-                                                    <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
-                                                </div>
                                                 <button type="submit" class="btn btn-primary">Buy</button>
                                             </form>
                                         </div>
@@ -139,10 +119,6 @@ function Art() {
                                             <img className="card-img-top" src="./images/Example9.jpg" id="Style" />
                                             <p className="card-text">A Girl In Old Chinese Garb.</p>
                                             <form action='mailto:artsandsuch01@gmail.com' method="post">
-                                                <div className="form-group">
-                                                    <label for="exampleFormControlInput1">Email address</label>
-                                                    <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
-                                                </div>
                                                 <button type="submit" class="btn btn-primary">Buy</button>
                                             </form>
                                         </div>
