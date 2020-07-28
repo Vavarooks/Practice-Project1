@@ -2,7 +2,7 @@ import React from "react";
 import Art from "./Artpage";
 import Programming from "./Programerpage";
 import Body from "./body";
-import Buyer from "./BuyerPage";
+// import Buyer from "./BuyerPage";
 
 
 function Home() {
@@ -39,11 +39,10 @@ function Home() {
         <div className="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab"><Body/></div>
         <div className="tab-pane fade" id="artist" role="tabpanel" aria-labelledby="artist-tab"><Art/></div>
         <div className="tab-pane fade" id="programmer" role="tabpanel" aria-labelledby="programmer-tab"><Programming/></div>
-        <div className="tab-pane fade" id="buyer" role="tabpanel" aria-labelledby="buyer-tab"><Buyer/></div>
         <div className="tab-pane fade" id="commissions" role="tabpanel" aria-labelledby="commissions-tab">
         <div className="container">
         <h1 className="display-4">Commission Page</h1>
-        <form action='mailto:artsandsuch01@gmail.com?subject = Commission&body = Message' method="post" enctype="text/plain">
+        <form action='mailto:artsandsuch01@gmail.com' method="post">
             <div className="form-group">
                 <label for="exampleFormControlInput1">Email address</label>
                 <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
