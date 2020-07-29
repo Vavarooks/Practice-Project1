@@ -12,12 +12,6 @@ function Home() {
         <h1 id="title">Arts and Such</h1>
         <h2 id="title">For all your commision needs!</h2>
       </header>
-      <div className="alert alert-warning alert-dismissible fade show" role="alert">
-                <strong>Important!</strong>Make sure you have a email app installed for the buy functions to work!
-                <button type="button" className="close" data-dismiss="alert" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
       <ul className="nav nav-tabs" id="myTab" role="tablist">
         <li className="nav-item" role="presentation">
           <a className="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Home</a>
@@ -44,6 +38,12 @@ function Home() {
         <div className="tab-pane fade" id="programmer" role="tabpanel" aria-labelledby="programmer-tab"><Programming /></div>
         <div className="tab-pane fade" id="commissions" role="tabpanel" aria-labelledby="commissions-tab">
           <div className="container">
+          <div className="alert alert-warning alert-dismissible fade show" role="alert">
+                <strong>Important!</strong>Make sure you have a email app installed for the buy functions to work!
+                <button type="button" className="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
             <h1 className="display-4">Commission Page</h1>
             <form action='mailto:artsandsuch01@gmail.com' method="post">
               <div className="form-group">
