@@ -39,7 +39,7 @@ function Home() {
         <div className="tab-pane fade" id="commissions" role="tabpanel" aria-labelledby="commissions-tab">
           <div className="container">
           <div className="alert alert-warning alert-dismissible fade show" role="alert">
-                <strong>Important!</strong>Make sure you have a email app installed for the buy functions to work!
+                <strong>Important!</strong> Make sure you have a email app installed for the buy functions to work!
                 <button type="button" className="close" data-dismiss="alert" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
