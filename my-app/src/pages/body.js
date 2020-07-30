@@ -10,7 +10,7 @@ function Body() {
                 </button>
             </div>
             <h1 id="Head">
-                Arts and Such Home Page!
+                Vava and Rooks Home Page!
             </h1>
             <br />       
             <h2 id="Text">

@@ -9,7 +9,7 @@ function Home() {
   return (
     <div>
       <header>
-        <h1 id="title">Arts and Such</h1>
+        <h1 id="title">Vava and Rooks</h1>
         <h2 id="title">For all your commision needs!</h2>
       </header>
       <ul className="nav nav-tabs" id="myTab" role="tablist">
