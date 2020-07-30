@@ -70,7 +70,7 @@ function Home() {
                 <img src="./images/programer.jpg" className="card-img-top" alt="..." />
                 <div className="card-body">
                   <h5 className="card-title">Programmer</h5>
-                  <p className="card-text">Maked the page and other smaller projetcs.</p>
+                  <p className="card-text">Made the page and other smaller projetcs.</p>
                 </div>
               </div>
             </div>
