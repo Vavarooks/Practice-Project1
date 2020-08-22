@@ -9,27 +9,27 @@ function Home() {
   return (
     <div>
       <header>
-        <h1 id="title">Vava and Rooks</h1>
-        <h2 id="title">For all your commision needs!</h2>
+        <h1 className="text-primary" id="title">Vava and Rooks</h1>
+        <h2 className="text-primary" id="title">For all your commision needs!</h2>
       </header>
       <ul className="nav nav-tabs" id="myTab" role="tablist">
         <li className="nav-item" role="presentation">
-          <a className="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Home</a>
+          <a className="text-primary nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Home</a>
         </li>
         <li className="nav-item" role="presentation">
-          <a className="nav-link" id="artist-tab" data-toggle="tab" href="#artist" role="tab" aria-controls="artist" aria-selected="false">Artist</a>
+          <a className="text-primary nav-link" id="artist-tab" data-toggle="tab" href="#artist" role="tab" aria-controls="artist" aria-selected="false">Artist</a>
         </li>
         <li className="nav-item" role="presentation">
-          <a className="nav-link" id="programmer-tab" data-toggle="tab" href="#programmer" role="tab" aria-controls="programmer" aria-selected="false">Programmer</a>
+          <a className="text-primary nav-link" id="programmer-tab" data-toggle="tab" href="#programmer" role="tab" aria-controls="programmer" aria-selected="false">Programmer</a>
         </li>
         <li className="nav-item" role="presentation">
-          <a className="nav-link" id="commissions-tab" data-toggle="tab" href="#commissions" role="tab" aria-controls="commissions" aria-selected="false">Commissions</a>
+          <a className="text-primary nav-link" id="commissions-tab" data-toggle="tab" href="#commissions" role="tab" aria-controls="commissions" aria-selected="false">Commissions</a>
         </li>
         <li className="nav-item" role="presentation">
-          <a className="nav-link" id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" aria-selected="false">About</a>
+          <a className="text-primary nav-link" id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" aria-selected="false">About</a>
         </li>
         <li className="nav-item" role="presentation">
-          <a className="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Contact us</a>
+          <a className="text-primary nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Contact us</a>
         </li>
       </ul>
       <div className="tab-content" id="myTabContent">
@@ -44,7 +44,7 @@ function Home() {
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-            <h1 className="display-4">Commission Page</h1>
+            <h1 className="text-primary display-4">Commission Page</h1>
             <form action='mailto:artsandsuch01@gmail.com' method="post">
               <div className="form-group">
                 <label for="exampleFormControlInput1">Email address</label>
@@ -56,16 +56,16 @@ function Home() {
         </div>
         <div className="tab-pane fade" id="about" role="tabpanel" aria-labelledby="about-tab">
           <div className="container">
-            <h1 className="display-4">Evelyn Emerick</h1>
+            <h1 className="text-primary display-4">Evelyn Emerick</h1>
             <div className="card mb-3">
               <img src="./images/artist.jpg" className="card-img-top" alt="..." />
               <div className="card-body">
-                <h5 className="card-title">Artist</h5>
-                <p className="card-text">Makes the art that is commisioned!</p>
+                <h5 className="text-primary card-title">Artist</h5>
+                <p className="text-primary card-text">Makes the art that is commisioned!</p>
               </div>
             </div>
             <div className="container">
-              <h1 className="display-4">Vanessa Emerick</h1>
+              <h1 className="text-primary display-4">Vanessa Emerick</h1>
               <div className="card mb-3">
                 <img src="./images/programer.jpg" className="card-img-top" alt="..." />
                 <div className="card-body">
