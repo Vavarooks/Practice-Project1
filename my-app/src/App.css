@@ -10,7 +10,7 @@ height:600%;
 }
 
 
-#text-primary{
+.text-primary{
 font-size: large;  
 color: blueviolet;
 font-style: italic !important;
