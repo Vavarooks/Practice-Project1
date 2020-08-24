@@ -9,11 +9,11 @@ function Body() {
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-            <h1 id="Head">
+            <h1 className="text-info" id="Head">
                 Vava and Rooks Home Page!
             </h1>
             <br />       
-            <h2 id="Text">
+            <h2 className="text-info" id="Text">
                 You can look at the artist tab for the information about the artist or
                 the programming tab for the information about the programmer!
                 Make sure to contact us for any commisions and or reviews!

@@ -5,7 +5,7 @@ function Coding() {
     return (
         <div>
             <div className="container">
-                <p>Example works</p>
+                <p className="text-info">Example works</p>
                 <div className="card-group">
                     <div className="card">
                         <img src="./images/StockApp.jpg" className="card-img-top" alt="..." />
