@@ -21,3 +21,7 @@
 ##### Accsess
 
 - https://vava-rooks.herokuapp.com/
+
+###### Updates
+- Trying to change the defult colors
+
