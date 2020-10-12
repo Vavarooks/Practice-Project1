@@ -1,6 +1,7 @@
 # Vava & Rooks
 - For your art and programming needs!
 - This site has prices and shows of other websites I have made.
+- Changes may vary and because of the reccomendations provided.
 
 ## App
 
