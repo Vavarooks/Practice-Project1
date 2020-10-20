@@ -25,4 +25,5 @@
 
 ###### Updates
 - Trying to change the defult colors
+- adding small changes
 
